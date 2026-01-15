@@ -102,6 +102,7 @@ The cost is high: **1 Ore + 1 Brick + 1 Wood**.
 
 * **Temple Ruin (Model 2):** Based on ["crumbling ruined tower - terrain"](https://www.thingiverse.com/thing:4196257) by **jimjimjimmyjim**, used under the **CC BY 3.0** license.
 * Modifications made: Resized, hollowed out center for number token visibility.
+* **Temple Ruin Remix:** Also uses ["Ruined Tower - Crumbling Top"](https://www.printables.com/model/108521-ruined-tower-crumbling-top/files) by **Shiaic3D**, licensed under **CC BY 4.0**.
 
 ## �📄 License
 
@@ -217,6 +218,7 @@ Die Kosten sind hoch: **1 Erz + 1 Lehm + 1 Holz**.
 
 * **Tempelruinen-Modell (Variante 2):** Basiert auf ["crumbling ruined tower - terrain"](https://www.thingiverse.com/thing:4196257) von **jimjimjimmyjim**, verwendet unter der **CC BY 3.0** Lizenz.
 * Vorgenommene Änderungen: Größe angepasst, Mitte ausgehöhlt für Sichtbarkeit des Zahlenchips.
+* **Tempelruinen-Remix:** Zusätzlich genutzt wird ["Ruined Tower - Crumbling Top"](https://www.printables.com/model/108521-ruined-tower-crumbling-top/files) von **Shiaic3D**, lizenziert unter **CC BY 4.0**.
 
 ## 📄 Lizenz
 

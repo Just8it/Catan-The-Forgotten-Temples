@@ -1,0 +1,5 @@
+*.stl
+*.3mf
+*.glb
+!Tempel2.3mf
+!Tempel2.3.stl
