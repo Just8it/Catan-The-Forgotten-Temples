@@ -103,7 +103,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 ---
 ---
 
-# 🇩🇪 Deutsche Übersetzung (German Readme)
+# Deutsches README
 
 # Catan: Die Vergessenen Tempel
 
